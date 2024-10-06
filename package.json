@@ -10,6 +10,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.15.9"
+    "@astrojs/tailwind": "^5.1.1",
+    "@astrojs/vue": "^4.5.1",
+    "astro": "^4.15.9",
+    "axios": "^1.7.7",
+    "front": "file:",
+    "tailwindcss": "^3.4.13",
+    "vue": "^3.5.10"
   }
 }
